@@ -1,8 +1,11 @@
-title: Just the Docs Template
+title: Dev Journal
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Github: https://github.com/liamstamper
+  LinkedIn: https://linkedin.com/in/liamstamper
+
+aux_links_new_tab: true
